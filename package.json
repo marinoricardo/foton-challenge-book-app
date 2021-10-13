@@ -1,6 +1,5 @@
 {
   "name": "foton-book-app",
-  "homepage": "https://gabrielf9.github.io/foton-book-app",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
